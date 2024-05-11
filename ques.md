@@ -1,3 +1,14 @@
+### Certainly! Here are some key points about the project that you can include in your resume:
+
+1. **Developed a command-line shopping cart application in C++ using Object-Oriented Programming (OOP) principles.**
+
+2. **Implemented functionality to add products to the cart, view cart contents, and perform checkout with payment handling.**
+
+3. **Utilized classes such as Product, Item, and Cart to model the data and operations of the shopping cart system.**
+
+4. **Demonstrated proficiency in C++ programming, data structures (e.g., vectors, unordered_map), and fundamental OOP concepts (e.g., encapsulation, inheritance, polymorphism).**
+
+
 ### Project-related Counter Questions:
 
 1. **How would you enhance the shopping cart functionality to handle discounts or promotional offers?**
